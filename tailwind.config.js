@@ -20,7 +20,8 @@ module.exports = {
         }
       },
       backgroundImage:{
-        'hero-img':"url('/src/images/moon2.jpg')"
+        'hero-img':"url('/src/images/xK.gif')",
+        
       }
     },
   },
